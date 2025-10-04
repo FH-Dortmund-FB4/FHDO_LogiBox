@@ -9,7 +9,8 @@ This demonstrator is well suited for classrooms, workshops, and self-guided lear
 ## Features
 + Demonstrates 7 logic gates using real hardware.
 + Inputs A and B set by physical switches; outputs displayed with LEDs.
-+ Three ICs required: quad NAND, quad XOR, octal inverter.
++ Powered by a single cell LiPo battery, rechargable via USB-C.
++ Battery management on-board (overcharge, over-discharge protection etc.).
 + All design files and documentation provided for easy replication.
 
 ## Ordering and Manufacturing Guide
